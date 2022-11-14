@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <a href="https://github.com/satont">
+  <a href="https://github.com/Sergey-Yudenichev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergey-Yudenichev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Yudenichev&layout=compact&langs_count=7&theme=dracula"/>
   </a>
