@@ -1,5 +1,6 @@
 
 
+# 🧑🏻‍💻 Tech & Tools
 
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=f0db4f&color=3168b0)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)
