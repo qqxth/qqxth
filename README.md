@@ -10,6 +10,8 @@
 ![](https://img.shields.io/badge/Pycharm-informational?style=flat-square&logo=pycharm&logoColor=323330&color=4a9e66)
 
 
+#
+
 
 # 📊 GitHub Stats
 
@@ -17,3 +19,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=qqxth&show_icons=true&include_all_commits=true&count_private=true&theme=outrun&hide_border=true&bg_color=00000000" alt="qqxth's github stats" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqxth&langs_count=10&hide=jupyter%20notebook&theme=outrun&layout=compact&hide_border=true&bg_color=00000000" />
 </div>
+
+
+#
+
