@@ -17,7 +17,7 @@
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />
 </div> -->
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=qqxth&layout=compact&show_icons=true&theme=outrun&hide_border=true&bg_color=00000000" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqxth&layout=compact&theme=outrun&hide_border=true&bg_color=00000000" />
+<div align="center" style="display: flex; flex-direction: row; align-items: center;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=qqxth&layout=compact&show_icons=true&theme=outrun&hide_border=true&bg_color=00000000" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqxth&layout=compact&theme=outrun&hide_border=true&bg_color=00000000" />
 </div>
