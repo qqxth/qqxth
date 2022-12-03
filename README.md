@@ -1,25 +1,16 @@
-<!-- <div>
-  <a href="https://github.com/qqxth" style="display: flex; flex-direction: row; align-items: center;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=qqxth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqxth&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div> -->
-<!-- <div style="display: flex"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/svelte/svelte-original.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" />
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />
-</div> -->
-## 📊 GitHub Stats
-<!-- <div align="center" style="display: flex; flex-direction: row;">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=qqxth&layout=compact&show_icons=true&theme=outrun&hide_border=true&bg_color=00000000" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqxth&layout=compact&theme=outrun&hide_border=true&bg_color=00000000" />
-</div> -->
+
+
+
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=f0db4f&color=3168b0)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)
+![](https://img.shields.io/badge/Django-informational?style=flat-square&logo=django&logoColor=323330&color=265e0a)
+![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=438ff0&color=03162e)
+![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Pycharm-informational?style=flat-square&logo=pycharm&logoColor=323330&color=4a9e66)
+
+
+
+# 📊 GitHub Stats
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=qqxth&show_icons=true&include_all_commits=true&count_private=true&theme=outrun&hide_border=true&bg_color=00000000" alt="qqxth's github stats" />
